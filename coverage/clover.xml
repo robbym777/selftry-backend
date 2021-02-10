@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1610045273912" clover="3.2.0">
+  <project timestamp="1610045273912" name="All files">
+    <metrics statements="218" coveredstatements="181" conditionals="67" coveredconditionals="59" methods="15" coveredmethods="13" elements="300" coveredelements="253" complexity="0" loc="218" ncloc="218" packages="4" files="13" classes="13"/>
+    <package name="config">
+      <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="dbConn.js" path="C:\Users\robby\Documents\nodejs-be\config\dbConn.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="4" count="9" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+      </file>
+      <file name="logger.js" path="C:\Users\robby\Documents\nodejs-be\config\logger.js">
+        <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.events">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="myEmitter.js" path="C:\Users\robby\Documents\nodejs-be\src\events\myEmitter.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.models">
+      <metrics statements="32" coveredstatements="32" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="comment.model.js" path="C:\Users\robby\Documents\nodejs-be\src\models\comment.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+      <file name="content.model.js" path="C:\Users\robby\Documents\nodejs-be\src\models\content.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+      <file name="fan.model.js" path="C:\Users\robby\Documents\nodejs-be\src\models\fan.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="friend.model.js" path="C:\Users\robby\Documents\nodejs-be\src\models\friend.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="like.model.js" path="C:\Users\robby\Documents\nodejs-be\src\models\like.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="user.account.model.js" path="C:\Users\robby\Documents\nodejs-be\src\models\user.account.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+      </file>
+      <file name="user.model.js" path="C:\Users\robby\Documents\nodejs-be\src\models\user.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+      <file name="user.profile.model.js" path="C:\Users\robby\Documents\nodejs-be\src\models\user.profile.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="164" coveredstatements="127" conditionals="63" coveredconditionals="55" methods="14" coveredmethods="12"/>
+      <file name="auth.service.js" path="C:\Users\robby\Documents\nodejs-be\src\services\auth.service.js">
+        <metrics statements="79" coveredstatements="79" conditionals="53" coveredconditionals="53" methods="6" coveredmethods="6"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="56" count="6" type="stmt"/>
+        <line num="58" count="6" type="stmt"/>
+        <line num="59" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="62" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="63" count="4" type="stmt"/>
+        <line num="64" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="65" count="3" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+        <line num="72" count="3" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="89" count="5" type="stmt"/>
+        <line num="93" count="3" type="stmt"/>
+        <line num="95" count="3" type="stmt"/>
+        <line num="96" count="3" type="stmt"/>
+        <line num="97" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
+        <line num="110" count="1" type="stmt"/>
+        <line num="113" count="1" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="119" count="2" type="stmt"/>
+        <line num="123" count="9" type="stmt"/>
+        <line num="125" count="9" type="stmt"/>
+        <line num="126" count="9" type="stmt"/>
+        <line num="127" count="9" type="stmt"/>
+        <line num="128" count="9" type="stmt"/>
+        <line num="129" count="9" type="stmt"/>
+        <line num="130" count="8" type="stmt"/>
+        <line num="131" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="132" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="133" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="134" count="8" type="cond" truecount="5" falsecount="0"/>
+        <line num="135" count="1" type="stmt"/>
+        <line num="136" count="7" type="cond" truecount="5" falsecount="0"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="138" count="6" type="cond" truecount="5" falsecount="0"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="140" count="5" type="cond" truecount="5" falsecount="0"/>
+        <line num="141" count="1" type="stmt"/>
+        <line num="142" count="4" type="cond" truecount="5" falsecount="0"/>
+        <line num="143" count="1" type="stmt"/>
+        <line num="144" count="3" type="cond" truecount="5" falsecount="0"/>
+        <line num="145" count="1" type="stmt"/>
+        <line num="146" count="2" type="cond" truecount="5" falsecount="0"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="153" count="1" type="stmt"/>
+        <line num="157" count="1" type="stmt"/>
+        <line num="159" count="8" type="stmt"/>
+        <line num="163" count="3" type="stmt"/>
+        <line num="165" count="3" type="stmt"/>
+        <line num="166" count="3" type="stmt"/>
+        <line num="167" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="168" count="1" type="stmt"/>
+        <line num="169" count="1" type="stmt"/>
+        <line num="173" count="1" type="stmt"/>
+        <line num="176" count="1" type="stmt"/>
+        <line num="180" count="1" type="stmt"/>
+        <line num="182" count="2" type="stmt"/>
+        <line num="186" count="1" type="stmt"/>
+      </file>
+      <file name="user.service.js" path="C:\Users\robby\Documents\nodejs-be\src\services\user.service.js">
+        <metrics statements="85" coveredstatements="48" conditionals="10" coveredconditionals="2" methods="8" coveredmethods="6"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="32" count="8" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="83" count="2" type="stmt"/>
+        <line num="84" count="2" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="100" count="2" type="stmt"/>
+        <line num="101" count="2" type="stmt"/>
+        <line num="106" count="1" type="stmt"/>
+        <line num="110" count="1" type="stmt"/>
+        <line num="112" count="1" type="stmt"/>
+        <line num="118" count="2" type="stmt"/>
+        <line num="119" count="2" type="stmt"/>
+        <line num="120" count="2" type="stmt"/>
+        <line num="121" count="1" type="stmt"/>
+        <line num="127" count="1" type="stmt"/>
+        <line num="129" count="1" type="stmt"/>
+        <line num="130" count="1" type="stmt"/>
+        <line num="132" count="1" type="stmt"/>
+        <line num="133" count="1" type="stmt"/>
+        <line num="134" count="1" type="stmt"/>
+        <line num="138" count="1" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="143" count="1" type="stmt"/>
+        <line num="145" count="1" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="151" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="152" count="0" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="154" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="162" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="163" count="0" type="stmt"/>
+        <line num="165" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+        <line num="168" count="0" type="stmt"/>
+        <line num="170" count="0" type="stmt"/>
+        <line num="171" count="0" type="stmt"/>
+        <line num="175" count="0" type="stmt"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="180" count="0" type="stmt"/>
+        <line num="185" count="0" type="stmt"/>
+        <line num="186" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="187" count="0" type="stmt"/>
+        <line num="188" count="0" type="stmt"/>
+        <line num="189" count="0" type="stmt"/>
+        <line num="190" count="0" type="stmt"/>
+        <line num="191" count="0" type="stmt"/>
+        <line num="193" count="0" type="stmt"/>
+        <line num="194" count="0" type="stmt"/>
+        <line num="195" count="0" type="stmt"/>
+        <line num="196" count="0" type="stmt"/>
+        <line num="197" count="0" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="199" count="0" type="stmt"/>
+        <line num="200" count="0" type="stmt"/>
+        <line num="202" count="0" type="stmt"/>
+        <line num="203" count="0" type="stmt"/>
+        <line num="207" count="0" type="stmt"/>
+        <line num="210" count="0" type="stmt"/>
+        <line num="212" count="0" type="stmt"/>
+        <line num="215" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
